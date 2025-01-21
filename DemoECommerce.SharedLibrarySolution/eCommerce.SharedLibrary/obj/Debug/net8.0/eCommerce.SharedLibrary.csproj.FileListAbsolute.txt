@@ -40,3 +40,4 @@ D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.SharedLibra
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.pdb
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.genruntimeconfig.cache
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\ref\eCommerce.SharedLibrary.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.sourcelink.json

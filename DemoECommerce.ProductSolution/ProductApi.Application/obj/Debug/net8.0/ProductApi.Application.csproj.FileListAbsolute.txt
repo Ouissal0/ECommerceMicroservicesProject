@@ -61,3 +61,4 @@ D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolu
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.genruntimeconfig.cache
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.sourcelink.json

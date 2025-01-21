@@ -533,3 +533,4 @@ D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolu
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation\obj\Debug\net8.0\ProductApi.Presentation.pdb
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation\obj\Debug\net8.0\ProductApi.Presentation.genruntimeconfig.cache
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation\obj\Debug\net8.0\ref\ProductApi.Presentation.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation\obj\Debug\net8.0\ProductApi.Presentation.sourcelink.json

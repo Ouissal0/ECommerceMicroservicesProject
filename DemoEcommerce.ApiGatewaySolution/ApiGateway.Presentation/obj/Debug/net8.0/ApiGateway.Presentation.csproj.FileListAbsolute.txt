@@ -323,3 +323,4 @@ D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewayS
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.pdb
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.genruntimeconfig.cache
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ref\ApiGateway.Presentation.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.sourcelink.json

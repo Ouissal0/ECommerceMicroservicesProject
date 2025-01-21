@@ -59,8 +59,7 @@
               "RelativeToolTip": "ApiGateway.Presentation\\ocelot.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-17T19:17:47.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T19:17:47.561Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "ApiGateway.Presentation\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-17T19:17:27.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T19:17:27.471Z"
             },
             {
               "$type": "Document",
@@ -95,7 +93,7 @@
               "RelativeDocumentMoniker": "ApiGateway.Presentation\\Properties\\launchSettings.json",
               "ToolTip": "D:\\Projet ECommerce .Net\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Properties\\launchSettings.json",
               "RelativeToolTip": "ApiGateway.Presentation\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-17T18:30:13.843Z",
               "EditorCaption": ""

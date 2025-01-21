@@ -31,3 +31,4 @@ D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolu
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\refint\ProductApi.Domain.dll
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.pdb
 D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\ref\ProductApi.Domain.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.sourcelink.json

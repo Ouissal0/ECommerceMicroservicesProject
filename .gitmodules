@@ -1,0 +1,3 @@
+[submodule "ouis-front-ecommerce"]
+	path = ouis-front-ecommerce
+	url = https://github.com/Ouissal0/ECommerceMicroservicesProject.git
