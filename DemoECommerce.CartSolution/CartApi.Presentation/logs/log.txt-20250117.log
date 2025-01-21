@@ -1,0 +1,8 @@
+2025-01-17 22:15:31.864 +01:00 [INF] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-17 22:15:31.923 +01:00 [WRN] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-17 22:17:29.606 +01:00 [INF] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-17 22:17:29.619 +01:00 [WRN] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-17 22:32:15.862 +01:00 [INF] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-17 22:32:15.934 +01:00 [WRN] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-17 22:32:22.645 +01:00 [INF] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-17 22:32:22.655 +01:00 [WRN] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.

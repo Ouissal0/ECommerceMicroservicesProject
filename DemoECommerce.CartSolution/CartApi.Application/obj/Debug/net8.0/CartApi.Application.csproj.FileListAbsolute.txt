@@ -1,0 +1,34 @@
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\CartApi.Application.deps.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\CartApi.Application.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\CartApi.Application.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\CartApi.Domain.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\CartApi.Domain.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.csproj.AssemblyReference.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.AssemblyInfoInputs.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.AssemblyInfo.cs
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi..400B57DC.Up2Date
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\refint\CartApi.Application.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\ref\CartApi.Application.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\CartApi.Application.deps.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\CartApi.Application.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\CartApi.Application.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\CartApi.Domain.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\bin\Debug\net8.0\CartApi.Domain.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.csproj.AssemblyReference.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.AssemblyInfoInputs.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.AssemblyInfo.cs
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.csproj.CoreCompileInputs.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi..400B57DC.Up2Date
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\refint\CartApi.Application.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\CartApi.Application.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.CartSolution\CartApi.Application\obj\Debug\net8.0\ref\CartApi.Application.dll

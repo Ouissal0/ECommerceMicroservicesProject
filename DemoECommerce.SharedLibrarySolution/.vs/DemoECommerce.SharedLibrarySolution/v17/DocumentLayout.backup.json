@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ouiss\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3685A-3A5A-458C-98D7-8681C79670B9}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\ouiss\\ecommercemicroservicesproject\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3685A-3A5A-458C-98D7-8681C79670B9}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3685A-3A5A-458C-98D7-8681C79670B9}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\ouiss\\ecommercemicroservicesproject\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3685A-3A5A-458C-98D7-8681C79670B9}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3685A-3A5A-458C-98D7-8681C79670B9}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\ouiss\\ecommercemicroservicesproject\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA3685A-3A5A-458C-98D7-8681C79670B9}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA3685A-3A5A-458C-98D7-8681C79670B9}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\ouiss\\ecommercemicroservicesproject\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\ecommerce.sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EA3685A-3A5A-458C-98D7-8681C79670B9}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\ecommerce.sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalException.cs",
+              "DocumentMoniker": "C:\\Users\\ouiss\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middleware\\GlobalException.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Middleware\\GlobalException.cs",
+              "ToolTip": "C:\\Users\\ouiss\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middleware\\GlobalException.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\Middleware\\GlobalException.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:15:03.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogException.cs",
+              "DocumentMoniker": "C:\\Users\\ouiss\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ToolTip": "C:\\Users\\ouiss\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T01:14:56.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\ouiss\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "C:\\Users\\ouiss\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T00:54:47.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "eCommerce.SharedLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\ouiss\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+              "ToolTip": "C:\\Users\\ouiss\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T23:17:23.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

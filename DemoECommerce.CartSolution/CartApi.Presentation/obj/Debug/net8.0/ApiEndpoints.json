@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "CartApi.Presentation.Controllers.CartController",
+    "Method": "TestApi",
+    "RelativePath": "api/Cart",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CartApi.Presentation.Controllers.CartController",
+    "Method": "AddCart",
+    "RelativePath": "api/Cart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cart",
+        "Type": "CartApi.Domain.Entities.Cart",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CartApi.Presentation.Controllers.CartController",
+    "Method": "GetCart",
+    "RelativePath": "api/Cart/{cartId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CartApi.Presentation.Controllers.CartController",
+    "Method": "UpdateCart",
+    "RelativePath": "api/Cart/{cartId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedCartLines",
+        "Type": "System.Collections.Generic.List\u00601[[CartApi.Domain.Entities.CartLine, CartApi.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CartApi.Presentation.Controllers.CartController",
+    "Method": "DeleteCart",
+    "RelativePath": "api/Cart/{cartId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

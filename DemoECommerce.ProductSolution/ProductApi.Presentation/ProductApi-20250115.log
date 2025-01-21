@@ -1,0 +1,124 @@
+2025-01-15 00:30:36.535 +01:00 [INF] Now listening on: http://172.20.209.45:5003
+2025-01-15 00:30:37.324 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-15 00:30:37.531 +01:00 [INF] Hosting environment: Development
+2025-01-15 00:30:37.548 +01:00 [INF] Content root path: C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation
+2025-01-15 00:30:50.601 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger - null null
+2025-01-15 00:30:54.008 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger - 301 0 null 3429.3625ms
+2025-01-15 00:30:58.132 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/index.html - null null
+2025-01-15 00:31:00.163 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/index.html - 200 null text/html;charset=utf-8 2033.1608ms
+2025-01-15 00:31:00.245 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/swagger-ui-bundle.js - null null
+2025-01-15 00:31:00.257 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-15 00:31:00.268 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/swagger-ui-standalone-preset.js - null null
+2025-01-15 00:31:00.463 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/_vs/browserLink - null null
+2025-01-15 00:31:00.543 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/swagger-ui.css - null null
+2025-01-15 00:31:00.604 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/_framework/aspnetcore-browser-refresh.js - 200 13782 application/javascript; charset=utf-8 347.7507ms
+2025-01-15 00:31:00.918 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-01-15 00:31:00.991 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-01-15 00:31:01.086 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 624.8227ms
+2025-01-15 00:31:01.088 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 819.9935ms
+2025-01-15 00:31:01.152 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-01-15 00:31:01.323 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/swagger-ui.css - 200 152034 text/css 780.0153ms
+2025-01-15 00:31:02.081 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 1835.8472ms
+2025-01-15 00:31:02.219 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/v1/swagger.json - null null
+2025-01-15 00:31:02.335 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/favicon-32x32.png - null null
+2025-01-15 00:31:03.206 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 987.2186ms
+2025-01-15 00:31:03.621 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-01-15 00:31:03.783 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/favicon-32x32.png - 200 628 image/png 1448.4757ms
+2025-01-15 01:06:41.915 +01:00 [INF] Now listening on: http://172.20.209.45:5003
+2025-01-15 01:06:42.491 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-15 01:06:42.524 +01:00 [INF] Hosting environment: Development
+2025-01-15 01:06:42.532 +01:00 [INF] Content root path: C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation
+2025-01-15 01:06:48.778 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/index.html - null null
+2025-01-15 01:06:52.795 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/index.html - 200 null text/html;charset=utf-8 4037.7692ms
+2025-01-15 01:06:53.408 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/_vs/browserLink - null null
+2025-01-15 01:06:53.473 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-15 01:06:54.032 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/_framework/aspnetcore-browser-refresh.js - 200 13782 application/javascript; charset=utf-8 558.5869ms
+2025-01-15 01:06:54.165 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 758.8296ms
+2025-01-15 01:06:54.630 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/v1/swagger.json - null null
+2025-01-15 01:06:56.773 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 2143.1758ms
+2025-01-15 17:27:42.165 +01:00 [INF] Now listening on: http://172.20.209.45:5003
+2025-01-15 17:27:43.174 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-15 17:27:43.330 +01:00 [INF] Hosting environment: Development
+2025-01-15 17:27:43.341 +01:00 [INF] Content root path: C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation
+2025-01-15 17:27:45.203 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/index.html - null null
+2025-01-15 17:27:47.426 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/index.html - 200 null text/html;charset=utf-8 2262.7785ms
+2025-01-15 17:27:47.949 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/_vs/browserLink - null null
+2025-01-15 17:27:48.118 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-15 17:27:48.408 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/_framework/aspnetcore-browser-refresh.js - 200 13782 application/javascript; charset=utf-8 290.2811ms
+2025-01-15 17:27:48.673 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 725.044ms
+2025-01-15 17:27:49.333 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/v1/swagger.json - null null
+2025-01-15 17:27:51.675 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 2342.1753ms
+2025-01-15 19:34:18.177 +01:00 [INF] Now listening on: http://172.20.209.45:5003
+2025-01-15 19:34:18.746 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-15 19:34:18.793 +01:00 [INF] Hosting environment: Development
+2025-01-15 19:34:18.814 +01:00 [INF] Content root path: C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation
+2025-01-15 19:34:19.659 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/index.html - null null
+2025-01-15 19:34:20.452 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/index.html - 200 null text/html;charset=utf-8 817.6409ms
+2025-01-15 19:34:21.021 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-15 19:34:21.055 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/_framework/aspnetcore-browser-refresh.js - 200 13782 application/javascript; charset=utf-8 34.7821ms
+2025-01-15 19:34:21.192 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/_vs/browserLink - null null
+2025-01-15 19:34:21.659 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 467.2045ms
+2025-01-15 19:34:25.816 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.45:5003/swagger/v1/swagger.json - null null
+2025-01-15 19:34:26.079 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.45:5003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 263.5166ms
+2025-01-15 21:41:01.561 +01:00 [ERR] Hosting failed to start
+System.Net.Sockets.SocketException (10049): L’adresse demandée n’est pas valide dans son contexte.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, Boolean disconnectOnFailure, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportOptions.CreateDefaultBoundListenSocket(EndPoint endpoint)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass28_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(ListenOptions[] listenOptions, AddressBindContext context, Func`2 useHttps, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-01-15 22:14:15.375 +01:00 [INF] Now listening on: http://172.20.209.66:5003
+2025-01-15 22:14:15.606 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-15 22:14:15.615 +01:00 [INF] Hosting environment: Development
+2025-01-15 22:14:15.621 +01:00 [INF] Content root path: C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation
+2025-01-15 22:14:17.052 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/swagger - null null
+2025-01-15 22:14:17.959 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/swagger - 301 0 null 934.9385ms
+2025-01-15 22:14:17.993 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/swagger/index.html - null null
+2025-01-15 22:14:18.276 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/swagger/index.html - 200 null text/html;charset=utf-8 284.6426ms
+2025-01-15 22:14:18.371 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/swagger/swagger-ui-standalone-preset.js - null null
+2025-01-15 22:14:18.371 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/swagger/swagger-ui-bundle.js - null null
+2025-01-15 22:14:18.372 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/swagger/swagger-ui.css - null null
+2025-01-15 22:14:18.461 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-15 22:14:18.467 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/_vs/browserLink - null null
+2025-01-15 22:14:18.948 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-01-15 22:14:18.968 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-01-15 22:14:18.977 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-01-15 22:14:18.997 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 625.9845ms
+2025-01-15 22:14:19.020 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/swagger/swagger-ui.css - 200 152034 text/css 647.644ms
+2025-01-15 22:14:19.077 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/_framework/aspnetcore-browser-refresh.js - 200 13782 application/javascript; charset=utf-8 617.7052ms
+2025-01-15 22:14:19.169 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 798.3611ms
+2025-01-15 22:14:19.220 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 753.7891ms
+2025-01-15 22:14:19.831 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/swagger/v1/swagger.json - null null
+2025-01-15 22:14:19.969 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/swagger/favicon-32x32.png - null null
+2025-01-15 22:14:20.119 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-01-15 22:14:20.128 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/swagger/favicon-32x32.png - 200 628 image/png 159.4838ms
+2025-01-15 22:14:20.503 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 672.4507ms
+2025-01-15 22:18:37.712 +01:00 [INF] Now listening on: http://172.20.209.66:5003
+2025-01-15 22:18:37.944 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-15 22:18:37.955 +01:00 [INF] Hosting environment: Development
+2025-01-15 22:18:37.963 +01:00 [INF] Content root path: C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation
+2025-01-15 22:18:38.592 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/swagger/index.html - null null
+2025-01-15 22:18:39.555 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/swagger/index.html - 200 null text/html;charset=utf-8 995.7268ms
+2025-01-15 22:18:39.632 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-15 22:18:39.788 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/_framework/aspnetcore-browser-refresh.js - 200 13782 application/javascript; charset=utf-8 156.3167ms
+2025-01-15 22:18:39.979 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/_vs/browserLink - null null
+2025-01-15 22:18:40.428 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 449.301ms
+2025-01-15 22:18:41.121 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/swagger/v1/swagger.json - null null
+2025-01-15 22:18:41.461 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 339.6602ms
+2025-01-15 23:39:29.520 +01:00 [INF] Request starting HTTP/1.1 GET http://172.20.209.66:5003/ - null null
+2025-01-15 23:39:29.753 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-01-15 23:39:29.788 +01:00 [INF] Request finished HTTP/1.1 GET http://172.20.209.66:5003/ - 404 0 null 298.9537ms
+2025-01-15 23:39:29.811 +01:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://172.20.209.66:5003/, Response status code: 404

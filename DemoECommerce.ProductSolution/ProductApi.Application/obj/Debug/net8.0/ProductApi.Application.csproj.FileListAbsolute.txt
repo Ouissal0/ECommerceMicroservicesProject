@@ -1,0 +1,63 @@
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.deps.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.AssemblyReference.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfoInputs.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfo.cs
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductA.E443A747.Up2Date
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\refint\ProductApi.Application.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.runtimeconfig.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.genruntimeconfig.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Infrastructure.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Infrastructure.pdb
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.deps.json
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.runtimeconfig.json
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.pdb
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Infrastructure.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Infrastructure.pdb
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.AssemblyReference.cache
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfoInputs.cache
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfo.cs
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductA.E443A747.Up2Date
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\refint\ProductApi.Application.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.genruntimeconfig.cache
+C:\Users\minou\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.deps.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.runtimeconfig.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Infrastructure.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Infrastructure.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.AssemblyReference.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfoInputs.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfo.cs
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductA.E443A747.Up2Date
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\refint\ProductApi.Application.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.genruntimeconfig.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll

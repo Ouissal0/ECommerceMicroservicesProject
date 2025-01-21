@@ -1,0 +1,36 @@
+2025-01-18 00:45:33.563 +01:00 [INF] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-18 00:45:33.715 +01:00 [WRN] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-18 01:17:53.742 +01:00 [INF] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-18 01:17:53.870 +01:00 [WRN] Unable to resolve service for type 'CartApi.Application.Services.ICartService' while attempting to activate 'CartApi.Presentation.Controllers.CartController'.
+2025-01-18 01:46:18.415 +01:00 [INF] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+2025-01-18 01:46:18.536 +01:00 [WRN] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+2025-01-18 01:46:19.022 +01:00 [INF] Error occurred while adding the cart.
+2025-01-18 01:46:19.035 +01:00 [WRN] Error occurred while adding the cart.
+2025-01-18 01:55:03.463 +01:00 [INF] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+2025-01-18 01:55:03.564 +01:00 [WRN] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+2025-01-18 01:55:03.972 +01:00 [INF] Error occurred while adding the cart.
+2025-01-18 01:55:03.984 +01:00 [WRN] Error occurred while adding the cart.
+2025-01-18 02:14:38.116 +01:00 [INF] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+2025-01-18 02:14:38.233 +01:00 [WRN] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+2025-01-18 02:14:38.774 +01:00 [INF] Error occurred while adding the cart.
+2025-01-18 02:14:38.784 +01:00 [WRN] Error occurred while adding the cart.
+2025-01-18 04:36:07.021 +01:00 [INF] The method or operation is not implemented.
+2025-01-18 04:36:07.144 +01:00 [WRN] The method or operation is not implemented.
+2025-01-18 04:36:16.550 +01:00 [INF] The method or operation is not implemented.
+2025-01-18 04:36:16.559 +01:00 [WRN] The method or operation is not implemented.
+2025-01-18 04:37:03.149 +01:00 [INF] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée. (localhost:5001)
+2025-01-18 04:37:03.164 +01:00 [WRN] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée. (localhost:5001)
+2025-01-18 11:37:47.148 +01:00 [INF] The method or operation is not implemented.
+2025-01-18 11:37:47.223 +01:00 [WRN] The method or operation is not implemented.
+2025-01-18 11:38:02.727 +01:00 [INF] Cart with ID 1 not found.
+2025-01-18 11:38:02.734 +01:00 [WRN] Cart with ID 1 not found.
+2025-01-18 11:51:03.573 +01:00 [INF] Cart with ID 1 not found.
+2025-01-18 11:51:03.636 +01:00 [WRN] Cart with ID 1 not found.
+2025-01-18 12:03:39.559 +01:00 [INF] The method or operation is not implemented.
+2025-01-18 12:03:39.611 +01:00 [WRN] The method or operation is not implemented.
+2025-01-18 12:33:25.038 +01:00 [INF] No cart found for user ID: 4
+2025-01-18 12:33:25.099 +01:00 [WRN] No cart found for user ID: 4
+2025-01-18 12:33:25.432 +01:00 [INF] Could not retrieve a cart for the user ID 4
+2025-01-18 12:33:25.438 +01:00 [WRN] Could not retrieve a cart for the user ID 4
+2025-01-18 12:45:06.528 +01:00 [INF] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée. (localhost:5001)
+2025-01-18 12:45:06.614 +01:00 [WRN] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée. (localhost:5001)

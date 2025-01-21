@@ -1,0 +1,10 @@
+2024-12-29 17:55:56.170 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-29 17:55:56.244 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-29 19:20:04.960 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-29 19:20:05.044 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-29 19:26:52.895 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-29 19:26:52.955 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-29 19:29:29.593 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-29 19:29:29.644 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-29 19:34:31.069 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-29 19:34:31.138 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.

@@ -1,0 +1,96 @@
+{
+  "Routes": [
+    // JWT Authentication
+    {
+
+      "DownstreamPathTemplate": "/api/Authentication/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "172.20.10.7",
+          "Port": 5000
+        }
+      ],
+      "UpstreamPathTemplate": "/api/Authentication/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "DELETE","PUT" ],
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "10s",
+        "Limit": 1,
+        "PeriodTimespan": 10
+      }
+    },
+    // Products
+    {
+      "DownstreamPathTemplate": "/api/products/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "172.20.10.7",
+          "Port": 5003
+        }
+      ],
+      "UpstreamPathTemplate": "/api/products/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "DELETE", "PUT" ],
+      "FileCacheOptions": {
+        "TtlSeconds": 10,
+        "Region": "default",
+        "Header": "eCommerce-Caching-Control"
+      }
+    },
+    // Categories
+    {
+      "DownstreamPathTemplate": "/api/categories/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "172.20.10.7",
+          "Port": 5003
+        }
+      ],
+      "UpstreamPathTemplate": "/api/categories/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+    },
+    // Markets
+    {
+      "DownstreamPathTemplate": "/api/markets/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "172.20.10.7",
+          "Port": 5003
+        }
+      ],
+      "UpstreamPathTemplate": "/api/markets/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+    },
+    // Route for the root path (/)
+    {
+      "DownstreamPathTemplate": "/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "172.20.10.7",
+          "Port": 5003
+        }
+      ],
+      "UpstreamPathTemplate": "/",
+      "UpstreamHttpMethod": [ "GET" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://172.20.10.2:5001",
+    "RateLimitOptions": {
+      "DuoExceededMessage": "You are overwhelming me with multiple requests. Relax small"
+    },
+    "RequestIdKey": "RequestId",
+    "Logging": {
+      "LogLevel": {
+        "Default": "Debug",
+        "System": "Information",
+        "Microsoft": "Information"
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+2024-12-30 22:28:29.136 +01:00 [INF] The maximum number of retries (5) was exceeded while executing database operations with 'SqlServerRetryingExecutionStrategy'. See the inner exception for the most recent failure.
+2024-12-30 22:28:29.287 +01:00 [WRN] The maximum number of retries (5) was exceeded while executing database operations with 'SqlServerRetryingExecutionStrategy'. See the inner exception for the most recent failure.

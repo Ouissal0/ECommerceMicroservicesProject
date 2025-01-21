@@ -1,0 +1,2 @@
+2025-01-20 21:32:02.361 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2025-01-20 21:32:02.500 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.

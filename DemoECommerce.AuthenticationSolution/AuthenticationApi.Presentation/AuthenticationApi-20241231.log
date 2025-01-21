@@ -1,0 +1,14 @@
+2024-12-31 01:35:17.898 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 01:35:18.024 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:09:02.276 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:09:02.484 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:09:19.724 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:09:19.731 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:10:09.863 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:10:09.872 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:26:50.095 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:26:50.118 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:58:14.526 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:58:14.552 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:58:24.751 +01:00 [INF] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.
+2024-12-31 05:58:24.758 +01:00 [WRN] Serialization and deserialization of 'System.Type' instances is not supported. Path: $.HttpContext.Features.Key.

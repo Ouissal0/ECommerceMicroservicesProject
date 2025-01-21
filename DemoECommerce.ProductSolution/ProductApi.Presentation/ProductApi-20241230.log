@@ -1,0 +1,191 @@
+2024-12-30 23:17:22.557 +01:00 [INF] Now listening on: http://localhost:5003
+2024-12-30 23:17:23.127 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-30 23:17:23.138 +01:00 [INF] Hosting environment: Development
+2024-12-30 23:17:23.145 +01:00 [INF] Content root path: C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation
+2024-12-30 23:17:27.751 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/swagger/index.html - null null
+2024-12-30 23:17:29.223 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/swagger/index.html - 200 null text/html;charset=utf-8 1499.4887ms
+2024-12-30 23:17:29.811 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-30 23:17:29.818 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/_vs/browserLink - null null
+2024-12-30 23:17:29.887 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/_framework/aspnetcore-browser-refresh.js - 200 13782 application/javascript; charset=utf-8 76.7725ms
+2024-12-30 23:17:30.233 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 415.2641ms
+2024-12-30 23:17:30.362 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/swagger/v1/swagger.json - null null
+2024-12-30 23:17:30.690 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 327.9202ms
+2024-12-30 23:19:04.462 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5003/api/Markets - application/json 115662
+2024-12-30 23:19:04.526 +01:00 [WRN] Failed to determine the https port for redirect.
+2024-12-30 23:19:04.557 +01:00 [INF] Executing endpoint 'Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation)'
+2024-12-30 23:19:04.686 +01:00 [INF] Route matched with {action = "AddMarket", controller = "Markets"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddMarket(ProductApi.Application.DTOs.MarketDto) on controller Presentation.Controllers.MarketsController (ProductApi.Presentation).
+2024-12-30 23:19:04.716 +01:00 [INF] Executed action Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation) in 15.128ms
+2024-12-30 23:19:04.726 +01:00 [INF] Executed endpoint 'Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation)'
+2024-12-30 23:19:04.739 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Application.Services.IMarketService' while attempting to activate 'Presentation.Controllers.MarketsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-30 23:19:04.913 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5003/api/Markets - 500 null text/plain; charset=utf-8 455.7362ms
+2024-12-30 23:19:44.000 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5003/api/Markets - application/json 175
+2024-12-30 23:19:44.016 +01:00 [INF] Executing endpoint 'Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation)'
+2024-12-30 23:19:44.025 +01:00 [INF] Route matched with {action = "AddMarket", controller = "Markets"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddMarket(ProductApi.Application.DTOs.MarketDto) on controller Presentation.Controllers.MarketsController (ProductApi.Presentation).
+2024-12-30 23:19:44.034 +01:00 [INF] Executed action Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation) in 1.0232ms
+2024-12-30 23:19:44.044 +01:00 [INF] Executed endpoint 'Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation)'
+2024-12-30 23:19:44.051 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Application.Services.IMarketService' while attempting to activate 'Presentation.Controllers.MarketsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-30 23:19:44.068 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5003/api/Markets - 500 null text/plain; charset=utf-8 71.9902ms
+2024-12-30 23:41:53.426 +01:00 [INF] Now listening on: http://localhost:5003
+2024-12-30 23:41:53.594 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-30 23:41:53.607 +01:00 [INF] Hosting environment: Development
+2024-12-30 23:41:53.624 +01:00 [INF] Content root path: C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation
+2024-12-30 23:41:59.372 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/swagger/index.html - null null
+2024-12-30 23:42:00.005 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/swagger/index.html - 200 null text/html;charset=utf-8 699.4846ms
+2024-12-30 23:42:04.027 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-30 23:42:04.028 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/_vs/browserLink - null null
+2024-12-30 23:42:04.249 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/_framework/aspnetcore-browser-refresh.js - 200 13782 application/javascript; charset=utf-8 222.6556ms
+2024-12-30 23:42:04.456 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 428.6547ms
+2024-12-30 23:42:04.553 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/swagger/v1/swagger.json - null null
+2024-12-30 23:42:04.634 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 80.7586ms
+2024-12-30 23:42:19.513 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5003/api/Markets - application/json 125
+2024-12-30 23:42:19.545 +01:00 [WRN] Failed to determine the https port for redirect.
+2024-12-30 23:42:19.567 +01:00 [INF] Executing endpoint 'Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation)'
+2024-12-30 23:42:19.639 +01:00 [INF] Route matched with {action = "AddMarket", controller = "Markets"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddMarket(ProductApi.Application.DTOs.MarketDto) on controller Presentation.Controllers.MarketsController (ProductApi.Presentation).
+2024-12-30 23:42:22.900 +01:00 [ERR] An error occurred using the connection to database '' on server ''.
+2024-12-30 23:42:23.016 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'MarketDbContext'.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-12-30 23:42:23.362 +01:00 [INF] The ConnectionString property has not been initialized.
+2024-12-30 23:42:23.375 +01:00 [WRN] The ConnectionString property has not been initialized.
+2024-12-30 23:42:23.394 +01:00 [INF] Executing CreatedAtActionResult, writing value of type 'ProductApi.Application.DTOs.MarketDto'.
+2024-12-30 23:42:23.484 +01:00 [INF] Executed action Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation) in 3829.254ms
+2024-12-30 23:42:23.495 +01:00 [INF] Executed endpoint 'Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation)'
+2024-12-30 23:42:23.528 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5003/api/Markets - 201 null application/json; charset=utf-8 4015.8552ms
+2024-12-30 23:51:17.002 +01:00 [INF] Now listening on: http://localhost:5003
+2024-12-30 23:51:17.405 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-30 23:51:17.418 +01:00 [INF] Hosting environment: Development
+2024-12-30 23:51:17.426 +01:00 [INF] Content root path: C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation
+2024-12-30 23:51:21.548 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/swagger/index.html - null null
+2024-12-30 23:51:23.108 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/swagger/index.html - 200 null text/html;charset=utf-8 1618.3798ms
+2024-12-30 23:51:23.972 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-30 23:51:23.972 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/_vs/browserLink - null null
+2024-12-30 23:51:24.021 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/_framework/aspnetcore-browser-refresh.js - 200 13782 application/javascript; charset=utf-8 49.3301ms
+2024-12-30 23:51:24.147 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 175.6927ms
+2024-12-30 23:51:24.230 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/swagger/v1/swagger.json - null null
+2024-12-30 23:51:24.304 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 74.2268ms
+2024-12-30 23:51:34.802 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5003/api/Markets - application/json 145
+2024-12-30 23:51:34.839 +01:00 [WRN] Failed to determine the https port for redirect.
+2024-12-30 23:51:34.858 +01:00 [INF] Executing endpoint 'Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation)'
+2024-12-30 23:51:34.938 +01:00 [INF] Route matched with {action = "AddMarket", controller = "Markets"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddMarket(ProductApi.Application.DTOs.MarketDto) on controller Presentation.Controllers.MarketsController (ProductApi.Presentation).
+2024-12-30 23:51:38.314 +01:00 [ERR] An error occurred using the connection to database '' on server ''.
+2024-12-30 23:51:38.418 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'MarketDbContext'.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-12-30 23:51:38.783 +01:00 [INF] The ConnectionString property has not been initialized.
+2024-12-30 23:51:38.796 +01:00 [WRN] The ConnectionString property has not been initialized.
+2024-12-30 23:51:38.815 +01:00 [INF] Executing CreatedAtActionResult, writing value of type 'ProductApi.Application.DTOs.MarketDto'.
+2024-12-30 23:51:38.914 +01:00 [INF] Executed action Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation) in 3950.8745ms
+2024-12-30 23:51:38.956 +01:00 [INF] Executed endpoint 'Presentation.Controllers.MarketsController.AddMarket (ProductApi.Presentation)'
+2024-12-30 23:51:39.032 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5003/api/Markets - 201 null application/json; charset=utf-8 4230.5331ms
+2024-12-30 23:57:30.604 +01:00 [INF] Now listening on: http://localhost:5003
+2024-12-30 23:57:30.869 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-30 23:57:30.874 +01:00 [INF] Hosting environment: Development
+2024-12-30 23:57:30.878 +01:00 [INF] Content root path: C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Presentation
+2024-12-30 23:57:36.339 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/swagger/index.html - null null
+2024-12-30 23:57:36.840 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/swagger/index.html - 200 null text/html;charset=utf-8 509.8865ms
+2024-12-30 23:57:39.048 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-30 23:57:39.068 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/_vs/browserLink - null null
+2024-12-30 23:57:39.121 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/_framework/aspnetcore-browser-refresh.js - 200 13782 application/javascript; charset=utf-8 73.4711ms
+2024-12-30 23:57:39.242 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/_vs/browserLink - 200 null text/javascript; charset=UTF-8 175.0174ms
+2024-12-30 23:57:39.315 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5003/swagger/v1/swagger.json - null null
+2024-12-30 23:57:39.377 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5003/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 61.7742ms

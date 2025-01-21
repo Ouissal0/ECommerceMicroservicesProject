@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\minou\\ecommercemicroservicesproject\\demoecommerce.apigatewaysolution\\apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\minou\\ecommercemicroservicesproject\\demoecommerce.apigatewaysolution\\apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{852ED480-D41A-4A63-9E8D-304ECF8704EC}|..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\minou\\ecommercemicroservicesproject\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\minou\\ecommercemicroservicesproject\\demoecommerce.apigatewaysolution\\apigateway.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\minou\\ecommercemicroservicesproject\\demoecommerce.apigatewaysolution\\apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\minou\\ecommercemicroservicesproject\\demoecommerce.apigatewaysolution\\apigateway.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\minou\\ecommercemicroservicesproject\\demoecommerce.apigatewaysolution\\apigateway.presentation\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13001D6C-B806-46F4-AF35-F82D8D666DA4}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListenToOnlyApiGateway.cs",
+              "DocumentMoniker": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "ToolTip": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:18:19.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\ocelot.json",
+              "ToolTip": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ocelot.json",
+              "RelativeToolTip": "ApiGateway.Presentation\\ocelot.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T19:17:47.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\appsettings.json",
+              "RelativeToolTip": "ApiGateway.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T19:17:27.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "ApiGateway.Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T19:17:26.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T18:30:13.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\config.json",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\config.json",
+              "ToolTip": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\config.json",
+              "RelativeToolTip": "ApiGateway.Presentation\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T17:53:57.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\minou\\ECommerceMicroservicesProject\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Program.cs",
+              "RelativeToolTip": "ApiGateway.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:40:17.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

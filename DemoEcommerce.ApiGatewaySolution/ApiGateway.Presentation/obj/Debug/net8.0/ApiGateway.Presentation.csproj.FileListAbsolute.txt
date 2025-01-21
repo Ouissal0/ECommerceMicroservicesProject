@@ -1,0 +1,325 @@
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\appsettings.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.staticwebassets.endpoints.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.exe
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.deps.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.runtimeconfig.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\CacheManager.Core.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Ocelot.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.csproj.AssemblyReference.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.AssemblyInfoInputs.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.AssemblyInfo.cs
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.Presentation.styles.css
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGateway.Presentation.props
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.Presentation.props
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGateway.Presentation.props
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGatew.649DBD3B.Up2Date
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\refint\ApiGateway.Presentation.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.genruntimeconfig.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ref\ApiGateway.Presentation.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ocelot.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\appsettings.json
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ocelot.json
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.exe
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.deps.json
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.runtimeconfig.json
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.pdb
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\CacheManager.Core.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Ocelot.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.csproj.AssemblyReference.cache
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.AssemblyInfoInputs.cache
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.AssemblyInfo.cs
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGateway.Presentation.props
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.Presentation.props
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGateway.Presentation.props
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.Presentation.styles.css
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGatew.649DBD3B.Up2Date
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\refint\ApiGateway.Presentation.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.pdb
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.genruntimeconfig.cache
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ref\ApiGateway.Presentation.dll
+C:\Users\minou\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\config.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\appsettings.Development.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\config.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\appsettings.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ocelot.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.staticwebassets.endpoints.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.exe
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.deps.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.runtimeconfig.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\ApiGateway.Presentation.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Azure.Core.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\CacheManager.Core.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\FluentValidation.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\IPAddressRange.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Ocelot.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.csproj.AssemblyReference.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.AssemblyInfoInputs.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.AssemblyInfo.cs
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.csproj.CoreCompileInputs.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.Presentation.styles.css
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGateway.Presentation.props
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.Presentation.props
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGateway.Presentation.props
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGatew.649DBD3B.Up2Date
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\refint\ApiGateway.Presentation.dll
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.pdb
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ApiGateway.Presentation.genruntimeconfig.cache
+D:\Projet ECommerce .Net\ECommerceMicroservicesProject\DemoEcommerce.ApiGatewaySolution\ApiGateway.Presentation\obj\Debug\net8.0\ref\ApiGateway.Presentation.dll
